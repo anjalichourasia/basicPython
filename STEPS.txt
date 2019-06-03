@@ -1,0 +1,22 @@
+REPL-READ,EVALUATE,PRINT,LOOP
+cmd
+
+python//give version if not set path in environmental variable
+
+exit()//terminate
+
+python filename.py//compilation
+
+print('Hello world')
+
+SPYDER
+>CREATE FOLDER
+>SET FILE PATH
+>GO TO FILE EXPLORER->RIGHT CLICK>NEW>FILE>PUT FILENAME.PY
+>CODE 
+
+JUPYTER NOTEBOOK
+>CREATE FOLDER IN DESKTOP
+>OPEN JUPYTER NOTEBOOK IN YOUR LOCALHOST 8888
+>GO TO THAT PATH
+>CREATE PYTHON FILE
